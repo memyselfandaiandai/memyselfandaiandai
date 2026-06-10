@@ -1,14 +1,13 @@
-# 👋 Hey, I'm Cory
+# Hey, I'm Cory
 
-**AI Security Researcher** focused on agentic AI hardening, MCP security, and embedded device research.
+**AI Security Researcher**
 
-## 🔬 What I Work On
+##  What I Work On
 
 - **MCP Security** — Building tools to audit Model Context Protocol server configurations for security issues
 - **Agentic AI Hardening** — OWASP Agentic Applications 2026, prompt injection, supply chain attacks
-- **Embedded Device Research** — Kindle jailbreak research, Chromium sandbox escape
 
-## 🛠️ Projects
+##  Projects
 
 | Project | Description |
 |---------|-------------|
